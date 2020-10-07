@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/text-to-speech-react-app/static/css/main.3525cb7c.chunk.css",
+    "main.js": "/text-to-speech-react-app/static/js/main.6a7a74cd.chunk.js",
+    "main.js.map": "/text-to-speech-react-app/static/js/main.6a7a74cd.chunk.js.map",
+    "runtime-main.js": "/text-to-speech-react-app/static/js/runtime-main.ec977d0b.js",
+    "runtime-main.js.map": "/text-to-speech-react-app/static/js/runtime-main.ec977d0b.js.map",
+    "static/js/2.0df5abde.chunk.js": "/text-to-speech-react-app/static/js/2.0df5abde.chunk.js",
+    "static/js/2.0df5abde.chunk.js.map": "/text-to-speech-react-app/static/js/2.0df5abde.chunk.js.map",
+    "index.html": "/text-to-speech-react-app/index.html",
+    "precache-manifest.b35e28e5160e1ea74281bdca10681ca3.js": "/text-to-speech-react-app/precache-manifest.b35e28e5160e1ea74281bdca10681ca3.js",
+    "service-worker.js": "/text-to-speech-react-app/service-worker.js",
+    "static/css/main.3525cb7c.chunk.css.map": "/text-to-speech-react-app/static/css/main.3525cb7c.chunk.css.map",
+    "static/js/2.0df5abde.chunk.js.LICENSE.txt": "/text-to-speech-react-app/static/js/2.0df5abde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec977d0b.js",
+    "static/js/2.0df5abde.chunk.js",
+    "static/css/main.3525cb7c.chunk.css",
+    "static/js/main.6a7a74cd.chunk.js"
+  ]
+}
